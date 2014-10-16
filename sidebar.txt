@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bye:home|Door43 (bye)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bye|d43-bye repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bye/archive/master.zip|d43-bye.zip]]
+
+**Recent Changes**
+{{changes>ns = bye}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bye|Ethnologue data]]
+
